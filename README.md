@@ -4,7 +4,7 @@
 
 ### Links and Resources
 
-- [submission PR]()
+- [submission PR](https://github.com/ayman-401-advanced-javascript/lab13/pull/1)
 
 ### Setup
 npm i jest eslint
