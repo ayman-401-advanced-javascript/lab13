@@ -22,8 +22,8 @@ npm i jest eslint
 - Describe any tests that you did not complete, skipped, etc
      - evey test solved and another time i will cover more cases.
 ### My-app-data
-- CLIENT_ID=f6167d4a92a5624a94b8
-- CLIENT_SECRET=205ff19f090b57df023e1eed4a74b218b39fa733
+- CLIENT_ID=bb4c99764a7fd93dc205
+- CLIENT_SECRET=1bdb6151f8e226bac4d82c71d8887dc421473ee5
 ### Groub name : Qusai-alhanaktah, Mohmmad-Alhawamdeh, Ayman-Alkwaldeh, Ahmad-Al-Mhasnah
 #### UML
 Link to an image of the UML for your application and response to events
